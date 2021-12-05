@@ -1,0 +1,90 @@
+@media only screen and (max-width: 700px){
+  .body_summer{
+    max-width: 450px;
+  }
+  .container{
+    max-width: 450px;
+  }
+  input{
+    max-width: 250px;
+  }
+  .body_summary_container{
+    max-width: 250px;
+  }
+  .Text{
+    font-size: 15px;
+  }
+  .body__tittle_font{
+    font-size: 25px;
+  }
+  button{
+    max-width: 255px;
+  }
+}
+
+@media only screen and (max-width: 555px){
+  .body_summer{
+    max-width: 450px;
+  }
+  .container{
+    max-width: 400px;
+  }
+  input{
+    max-width: 230px;
+  }
+  .body_summary_container{
+    max-width: 230px;
+  }
+  .Text{
+    font-size: 15px;
+  }
+  .body__tittle_font{
+    font-size: 23px;
+  }
+  button{
+    max-width: 235px;
+  }
+  
+  .header__tittle_font{
+    font-size: 20px;
+  }
+
+  .header__logo{
+    max-width: 45px;
+    max-height: 45px;
+  }
+}
+
+@media only screen and (max-width: 480px){
+  .body_summer{
+    max-width: 450px;
+    height: 580px;
+  }
+  .container{
+    max-width: 340px;
+  }
+  input{
+    max-width: 200px;
+  }
+  .body_summary_container{
+    max-width: 200px;
+  }
+  .Text{
+    font-size: 15px;
+  }
+  .body__tittle_font{
+    font-size: 20px;
+  }
+  button{
+    max-width: 205px;
+  }
+  
+  .header__tittle_font{
+    font-size: 20px;
+  }
+
+  .header__logo{
+    max-width: 45px;
+    max-height: 45px;
+  }
+}
